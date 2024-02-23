@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="20024" appversion="7.0.9" start="node7">
+  <panorama id="node7">
+    <input overlap="1" height="400" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" width="400" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="400" preload="1" width="400" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="12.23" fov="107.4" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="-180" fovpixel="2" tilt="-31.246"/>
+      <max pan="180" fov="140" fovstereographic="330" fovfisheye="360" tilt="31.246"/>
+    </view>
+    <userdata tags="IMAGENE RECORRIDO" heading="0" customnodeid="" title="" author="" latitude="" datetime="" description="" nodeid="node7" comment="" copyright="" longitude="" info="" source=""/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" textcolor="0x000000" height="20" borderalpha="1" bordercolor="0x000000" enabled="1" textalpha="1" background="1" backgroundcolor="0xffffff" border="1" width="180" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff"/>
+      <polyhotspot id="Poly01" target="150.7/2.0/96.3" description="SERVICIOS ESCOLARES" url="{node8}" title="ENTRADA">
+        <polystring>-24.4/12.09|-24.11/-2.18|-37/-2.44|-37.13/10.88</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" zoomfov="40" type="crossdissolve" blendtime="1" zoomin="0" zoomafterinfov="140" blendcolor="0x000000" zoomoutpause="1" enabled="1" softedge="0" zoomout="0" delay="none" zoomspeed="2"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control invertcontrol="1" contextprojections="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" speedwheel="1" lockedkeyboard="0" contextvr="1" sensitivity="8" contextfullscreen="1" lockedkeyboardzoom="0" invertwheel="0" rubberband="0" lockedmouse="0" dblclickfullscreen="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node8">
+    <input overlap="1" height="400" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" width="400" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="400" preload="1" width="400" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="150.15" fov="112.7" projection="4" tilt="0.92"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="-180" fovpixel="2" tilt="-33.8044"/>
+      <max pan="180" fov="140" fovstereographic="330" fovfisheye="360" tilt="33.8044"/>
+    </view>
+    <userdata tags="IMAGENE RECORRIDO" heading="0" customnodeid="" title="" author="" latitude="" datetime="" description="" nodeid="node8" comment="" copyright="" longitude="" info="" source=""/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" textcolor="0x000000" height="20" borderalpha="1" bordercolor="0x000000" enabled="1" textalpha="1" background="1" backgroundcolor="0xffffff" border="1" width="180" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff"/>
+      <polyhotspot id="Poly01" target="67.3/-2.0/96.3" description="ESPACIO CENTRAL" url="{node11}" title="CONOCE NUESTRAS INSTALACIONES">
+        <polystring>-249.85/22.56|-249.47/-12.42|-263.01/-17.31|-263.12/21.81</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" zoomfov="40" type="crossdissolve" blendtime="1" zoomin="0" zoomafterinfov="140" blendcolor="0x000000" zoomoutpause="1" enabled="1" softedge="0" zoomout="0" delay="none" zoomspeed="2"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control invertcontrol="1" contextprojections="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" speedwheel="1" lockedkeyboard="0" contextvr="1" sensitivity="8" contextfullscreen="1" lockedkeyboardzoom="0" invertwheel="0" rubberband="0" lockedmouse="0" dblclickfullscreen="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node11">
+    <input overlap="1" height="400" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" width="400" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="400" preload="1" width="400" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="15.71" fov="112.7" projection="4" tilt="0.14"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="-180" fovpixel="2" tilt="-33.8044"/>
+      <max pan="180" fov="140" fovstereographic="330" fovfisheye="360" tilt="33.8044"/>
+    </view>
+    <userdata tags="IMAGENE RECORRIDO" heading="0" customnodeid="" title="" author="" latitude="" datetime="" description="" nodeid="node11" comment="" copyright="" longitude="" info="" source=""/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" textcolor="0x000000" height="20" borderalpha="1" bordercolor="0x000000" enabled="1" textalpha="1" background="1" backgroundcolor="0xffffff" border="1" width="180" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff"/>
+      <polyhotspot id="Poly01" target="-67.4/0.0/96.3" description="GRACIAS POR VISITARNOS" url="{node10}" title="SALIDA">
+        <polystring>-53.98/9.3|-52.86/-5.53|-80.19/-4.67|-81.2/9.75</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" zoomfov="40" type="crossdissolve" blendtime="1" zoomin="0" zoomafterinfov="140" blendcolor="0x000000" zoomoutpause="1" enabled="1" softedge="0" zoomout="0" delay="none" zoomspeed="2"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control invertcontrol="1" contextprojections="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" speedwheel="1" lockedkeyboard="0" contextvr="1" sensitivity="8" contextfullscreen="1" lockedkeyboardzoom="0" invertwheel="0" rubberband="0" lockedmouse="0" dblclickfullscreen="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node10">
+    <input overlap="1" height="400" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" width="400" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="400" preload="1" width="400" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="-67.42" fov="112.7" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="-180" fovpixel="2" tilt="-33.8044"/>
+      <max pan="180" fov="140" fovstereographic="330" fovfisheye="360" tilt="33.8044"/>
+    </view>
+    <userdata tags="IMAGENE RECORRIDO" heading="0" customnodeid="" title="" author="" latitude="" datetime="" description="" nodeid="node10" comment="" copyright="" longitude="" info="" source=""/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" textcolor="0x000000" height="20" borderalpha="1" bordercolor="0x000000" enabled="1" textalpha="1" background="1" backgroundcolor="0xffffff" border="1" width="180" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-68.82" id="Point01" target="-86.1/-0.8/93.2" description="" url="{node7}" tilt="3.95" skinid="ht_node" title="REGRESA AL INICIO"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" zoomfov="40" type="crossdissolve" blendtime="1" zoomin="0" zoomafterinfov="140" blendcolor="0x000000" zoomoutpause="1" enabled="1" softedge="0" zoomout="0" delay="none" zoomspeed="2"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control invertcontrol="1" contextprojections="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" speedwheel="1" lockedkeyboard="0" contextvr="1" sensitivity="8" contextfullscreen="1" lockedkeyboardzoom="0" invertwheel="0" rubberband="0" lockedmouse="0" dblclickfullscreen="0" simulatemass="1"/>
+  </panorama>
+  <masternode>
+    <userdata tags="" description="" comment="" copyright="" title="" author=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
